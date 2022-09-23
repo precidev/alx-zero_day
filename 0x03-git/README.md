@@ -1,1 +1,1 @@
-Git navigation
+Updating changes made on git locally
